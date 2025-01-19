@@ -63,5 +63,4 @@ San Diego | Frontend Developer & Designer (01/2021 – 11/2021)
 ### Let’s Connect!
 
 - 📍 Bogotá, Colombia
-- 📧 juanbuitrago2002@outlook.com
 - 💼 https://www.linkedin.com/in/sebastianbbuitrago/
