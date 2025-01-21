@@ -22,7 +22,6 @@ I’m Juan Sebastian Buitrago, a dedicated and innovative Web Developer passiona
 
 🚀 Project Management & Collaboration
 
-- Led cross-functional teams to deliver impactful solutions on time.
 - Strong communicator and problem-solver, ensuring alignment with stakeholders and clients.
 
 🧠 Continuous Learning
