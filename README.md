@@ -33,8 +33,6 @@ I’m Juan Sebastian Buitrago, a dedicated and innovative Web Developer passiona
 	•	Programming Languages: JavaScript, Python, Go
 	•	Web Technologies: React, Angular, Next.js, Node.js, HTML, CSS
 	•	Cloud Platforms: Azure
-	•	DevOps Tools: Docker
-	•	Databases: MySQL, MongoDB, PostgreSQL
 	•	Soft Skills: Communication, Problem-Solving, Team Collaboration
 
 ### Work Highlights 💼
